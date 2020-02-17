@@ -1,6 +1,6 @@
 # About Me
 
-<https://usf-cs360-spring2020.github.io/homework1-jakezhong/>
+<https://usf-cs360-spring2020.github.io/homework2-jakezhong/>
 
 ![Profile Image](profile.jpg)
 
